@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IndianExpenseTracker/static/css/main.e9f44403.css",
+    "main.js": "/IndianExpenseTracker/static/js/main.4b2c11e8.js",
+    "index.html": "/IndianExpenseTracker/index.html",
+    "main.e9f44403.css.map": "/IndianExpenseTracker/static/css/main.e9f44403.css.map",
+    "main.4b2c11e8.js.map": "/IndianExpenseTracker/static/js/main.4b2c11e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f44403.css",
+    "static/js/main.4b2c11e8.js"
+  ]
+}
